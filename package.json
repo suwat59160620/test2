@@ -1,11 +1,10 @@
 {
-  "name": "test59160620",
+  "name": "phoneshop",
   "version": "1.0.0",
-  "description": "",
+  "description": "project for mobile programming paradigm",
   "main": "index.js",
   "dependencies": {
-    "bulma": "^0.7.1",
-    "prompt": "^1.0.0"
+    "bulma": "^0.7.1"
   },
   "devDependencies": {},
   "scripts": {
